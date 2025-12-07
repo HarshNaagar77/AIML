@@ -1,0 +1,19 @@
+# Ignore Python environment folders
+env/
+
+# Ignore Python package files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files (customize as needed)
+*.csv
+*.npy
+
+# Ignore VS Code settings
+.vscode/
+
